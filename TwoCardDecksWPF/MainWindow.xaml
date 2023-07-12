@@ -17,6 +17,10 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="115,72,0,0" Grid.Row="2" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="125,48,0,0" Grid.Row="3" VerticalAlignment="Top"/>
+        <Button Grid.Column="1" Content="Button" HorizontalAlignment="Left" Margin="105,72,0,0" Grid.Row="2" VerticalAlignment="Top"/>
+        <Button Grid.Column="1" Content="Button" HorizontalAlignment="Left" Margin="85,38,0,0" Grid.Row="3" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
